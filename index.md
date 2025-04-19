@@ -13,7 +13,7 @@ In 2025, I independently published a whitepaper proposing the **Courtroom Model*
 
 The goal: Reasoning systems that don't just generate ideas, but **argue them** — testing novelty against structured memory and energy-aware reality.
 
-➡️ [Read the whitepaper](whitepaper.md)
+➡️ [Read the whitepaper](/whitepaper/)
 
 Or visit the [View the GitHub repository](https://github.com/johnrepsys/johnrepsys.github.io) for versioned access.
 
