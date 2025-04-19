@@ -23,7 +23,7 @@ This model was shaped by real implementation challenges while building a financi
 ---
 
 📄 **Download the whitepaper (PDF):**  
-[Whitepaper.pdf](../Whitepaper.pdf)
+[Whitepaper.pdf](../whitepaper.pdf)
 
 📦 **Source + version control:**  
 [View the GitHub repository](https://github.com/johnrepsys/johnrepsys.github.io)
