@@ -26,7 +26,7 @@ This model was shaped by real implementation challenges while building a financi
 [Whitepaper.pdf](./Whitepaper.pdf)
 
 📦 **Source + version control:**  
-[View the GitHub repository](https://github.com/johnrepsys/courtroom-model)
+[View the GitHub repository](https://github.com/johnrepsys/johnrepsys.github.io)
 
 📰 **Narrative walkthrough (coming soon):**  
 [Substack post](#)
