@@ -15,7 +15,7 @@ The goal: Reasoning systems that don't just generate ideas, but **argue them** �
 
 ➡️ [Read the whitepaper](./whitepaper)
 
-Or visit the [GitHub repository](https://github.com/johnrepsys/courtroom-model) for versioned access.
+Or visit the [View the GitHub repository](https://github.com/johnrepsys/johnrepsys.github.io) for versioned access.
 
 ---
 
