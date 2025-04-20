@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome.
+Welcome.d
 
 I'm exploring the intersection of associative reasoning, symbolic constraint, and real-world validation in AI.
 
