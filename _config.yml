@@ -2,3 +2,6 @@ title: John Repsys
 markdown: kramdown
 theme: minima
 permalink: pretty
+nav:
+  - title: The Courtroom Model Whitepaper
+    url: /whitepaper/
