@@ -1,10 +1,12 @@
-title: John Repsys
+theme: null
 markdown: kramdown
-theme: minima
 permalink: pretty
+
+title: John Repsys
+
 nav:
   - title: The Courtroom Model Whitepaper
     url: /whitepaper/
-minima:
-  include:
-    - assets/css/custom.css
+
+sass:
+  style: compressed
