@@ -5,3 +5,6 @@ permalink: pretty
 nav:
   - title: The Courtroom Model Whitepaper
     url: /whitepaper/
+minima:
+  include:
+    - assets/css/custom.css
