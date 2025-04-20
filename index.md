@@ -1,6 +1,6 @@
 ---
 layout: default
-title: John Repsys
+title: Home
 ---
 
 Welcome.
