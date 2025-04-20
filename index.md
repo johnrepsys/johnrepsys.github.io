@@ -3,8 +3,6 @@ layout: default
 title: John Repsys
 ---
 
-# John Repsys
-
 Welcome.
 
 I'm exploring the intersection of associative reasoning, symbolic constraint, and real-world validation in AI.
