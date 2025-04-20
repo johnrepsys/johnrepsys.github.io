@@ -1,12 +1,15 @@
-theme: null
-markdown: kramdown
+title: John Repsys
+theme: minima
 permalink: pretty
 
-title: John Repsys
+# Optional but often helpful
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-nav:
-  - title: The Courtroom Model Whitepaper
-    url: /whitepaper/
+# Add custom CSS path (if used correctly with minima)
+minima:
+  skin: auto
+  social_links: []
 
-sass:
-  style: compressed
+# No custom includes yet
