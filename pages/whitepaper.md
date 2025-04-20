@@ -10,15 +10,15 @@ permalink: /whitepaper/
 
 ---
 
-In 2025, I independently published a whitepaper proposing the **Courtroom Model** — an architectural metaphor and system design that treats reasoning not as linear prediction, but as a dialectic between **association**, **structure**, and **challenge**.
+In 2025, I independently published a whitepaper proposing the _Courtroom Model_ — an architectural metaphor and system design that treats reasoning not as linear prediction, but as a dialectic between _association, structure, and challenge_.
 
 In this framework:
 
-- **LLMs** act as intuition engines — generating analogies, hypotheses, and possibilities
-- **FAISS/Parquet-style systems** represent structured precedent — persistent memories that ground semantic similarity and known truths
-- **Human input, observation, or multi-agent judgment** function as the courtroom — resolving conflict, enforcing constraint, and preventing hallucinated consensus
+- _LLMs_ act as intuition engines — generating analogies, hypotheses, and possibilities
+- _FAISS/Parquet-style systems_ represent structured precedent — persistent memories that ground semantic similarity and known truths
+- _Human input, observation, or multi-agent judgment_ function as the courtroom — resolving conflict, enforcing constraint, and preventing hallucinated consensus
 
-This model was shaped by real implementation challenges while building a financial data platform that must interpret noisy, ambiguous reporting. It is offered here as both a **theoretical framing** and a **practical architecture**.
+This model was shaped by real implementation challenges while building a financial data platform that must interpret noisy, ambiguous reporting. It is offered here as both a theoretical framing and a practical architecture.
 
 ---
 
