@@ -31,3 +31,8 @@ This model was shaped by real implementation challenges while building a financi
 ---
 
 _“Reasoning systems must do more than associate — they must argue. The Courtroom Model hopes to make that possible.”_
+
+
+<style>
+  footer { display: none; }
+</style>
