@@ -17,3 +17,7 @@ Or visit the [View the GitHub repository](https://github.com/johnrepsys/johnreps
 ---
 
 _“Progress is not a straight line, but a dynamic boundary — inching outward where truth endures, folding inward where illusion is exposed.”_
+
+<style>
+  footer { display: none; }
+</style>
