@@ -7,23 +7,23 @@ The site features my independently published 2025 whitepaper:
 
 ---
 
-## 🧠 About the Whitepaper
+## 🧠 About the Courtroom Model
 
-The whitepaper introduces the **Courtroom Model** — a reasoning framework that treats intelligent systems as a dialectic between:
+The whitepaper introduces the **Courtroom Model** — a conceptual and practical framework for hybrid reasoning systems. It draws on the metaphor of a courtroom to integrate:
 
-- **LLMs** for associative generation (intuition)
-- **Structured systems** (e.g., FAISS/Parquet) as legal precedent
-- **Constraint + observation** (human or multi-agent) as the courtroom of challenge and verification
+- **LLMs** as intuitive generators of associations (like lawyers)
+- **Structured systems** (e.g., FAISS/Parquet) as persistent legal precedent
+- **Constraint and real-world observation** as the judge and jury
 
-The model blends real-world implementation insights from financial data systems with theoretical considerations for AI reasoning and symbolic integration.
+This model emphasizes that good reasoning doesn't just generate claims — it tests them. It combines associative power with verification and constraint, aiming for robust reasoning in domains where accuracy is essential.
 
 ---
 
 ## 📎 Live Site
 
-🔗 [View the website](https://johnrepsys.com)  
+🔗 [Visit the site](https://johnrepsys.com)  
 📄 [Read the whitepaper](https://johnrepsys.com/whitepaper/)  
-📥 [Download PDF](https://johnrepsys.com/Whitepaper.pdf)
+📥 [Download the PDF](https://johnrepsys.com/whitepaper.pdf)
 
 ---
 
@@ -31,14 +31,14 @@ The model blends real-world implementation insights from financial data systems 
 
 - GitHub Pages (Jekyll)
 - Markdown with clean permalink routing
-- Custom PDF download + project structure
+- Static site, PDF assets, and versioned content structure
 
 ---
 
 ## 📬 Contact
 
-To get in touch, visit the site or watch for upcoming updates on [Substack](#) and [LinkedIn](#).
+For feedback, questions, or discussion, feel free to reach out at **contact@johnrepsys.com**.
 
 ---
 
-_This project reflects an evolving body of work at the intersection of associative reasoning, constraint systems, and human judgment._
+_This project reflects an evolving exploration at the intersection of associative reasoning, structured memory, and human judgment._
