@@ -16,7 +16,7 @@ In this framework:
 
 - _LLMs_ act as intuition engines — generating analogies, hypotheses, and possibilities
 - _FAISS/Parquet-style systems_ represent structured precedent — persistent memories that ground semantic similarity and known truths
-- _Dynamic validation of generated outputs_ functions as the courtroom — resolving conflict, enforcing constraint, and preventing hallucinated consensus
+- _Dynamic validation_ functions as the courtroom — resolving conflict, enforcing constraint, and preventing hallucinated consensus
 
 This model was shaped by real implementation challenges while building a financial data platform that must interpret noisy, ambiguous reporting. It is offered here as both a theoretical framing and a practical architecture.
 
