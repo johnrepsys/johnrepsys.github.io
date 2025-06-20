@@ -18,7 +18,7 @@ The aim: reasoning systems that don’t just generate ideas, but **argue** them 
 
 | Resource | Link |
 |----------|------|
-| **Paper (PDF)** | [`Courtroom_Challenge.pdf`](https://raw.githubusercontent.com/johnrepsys/courtroom-model/master/paper/main.pdf) |
+| **Paper (PDF)** | [`main.pdf`](https://raw.githubusercontent.com/johnrepsys/courtroom-model/master/paper/main.pdf) |
 | **Code & dataset** | [GitHub repository](https://github.com/johnrepsys/courtroom-model) – reproducibility notebook, benchmark CSV, ground-truth answers |
 | **Latest executed snapshot** | [HTML view](https://raw.githubusercontent.com/johnrepsys/courtroom-model/master/results/courtroom-20250620.html) · [PDF](https://raw.githubusercontent.com/johnrepsys/courtroom-model/master/results/courtroom-20250620.pdf) |
 
