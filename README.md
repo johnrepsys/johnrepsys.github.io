@@ -1,41 +1,47 @@
-# johnrepsys.github.io
+# johnrepsys.github.io – Personal Site Source
 
-This repository contains the source code and content for [https://johnrepsys.com](https://johnrepsys.com), the personal website of John Repsys.
-
-The site features my independently published 2025 whitepaper:  
-**“Are LLMs All We Need? A Courtroom Model for Hybrid AI Reasoning.”**
+This repo backs **[johnrepsys.com](https://johnrepsys.com)**.
 
 ---
 
-## 🧠 About the Courtroom Model
+## 🔍 Featured Work (2025)
 
-The whitepaper introduces the **Courtroom Model** — a conceptual and practical framework for hybrid reasoning systems. It draws on the metaphor of a courtroom to integrate:
-
-- **LLMs** as intuitive generators of associations (like lawyers)
-- **Structured systems** (e.g., FAISS/Parquet) as persistent legal precedent
-- **Constraint and real-world observation** as the judge and jury
-
-This model emphasizes that good reasoning doesn't just generate claims — it tests them. It combines associative power with verification and constraint, aiming for robust reasoning in domains where accuracy is essential.
+| Resource | Link | Notes |
+|----------|------|-------|
+| **Paper (PDF)** | [`Courtroom_Challenge.pdf`](https://raw.githubusercontent.com/johnrepsys/courtroom-model/master/paper/Courtroom_Challenge.pdf) | *The Courtroom Challenge — Conjecture on the Unavoidable Cost of LLM Verification* |
+| **Code & Data** | **[Courtroom-Model GitHub Repo](https://github.com/johnrepsys/courtroom-model)** | Reproducibility notebook, benchmark CSV, ground-truth answers |
+| **Latest executed snapshot** | [HTML](https://raw.githubusercontent.com/johnrepsys/courtroom-model/master/results/courtroom-20250620.html) · [PDF](https://raw.githubusercontent.com/johnrepsys/courtroom-model/master/results/courtroom-20250620.pdf) | View-only output of the notebook |
 
 ---
 
-## 📎 Live Site
+### About the Courtroom Model
 
-🔗 [Visit the site](https://johnrepsys.com)  
-📄 [Read the whitepaper](https://johnrepsys.com/whitepaper/)  
-📥 [Download the PDF](https://johnrepsys.com/whitepaper.pdf)
+The **Courtroom Model** is a hybrid architecture where:
 
----
+* **LLMs** act as intuition engines (like lawyers presenting arguments)  
+* **Structured stores** (e.g., FAISS, Parquet) provide precedent  
+* **Constraint & observation** apply judgment (judge / jury)
 
-## 🛠️ Technology Stack
-
-- GitHub Pages (Jekyll)
-- Markdown with clean permalink routing
-- Static site, PDF assets, and versioned content structure
+The goal: systems that don’t just generate ideas, but **argue** them against structured memory and observable reality.
 
 ---
 
-## 📬 Contact
+### Technology Stack for this site
+
+* GitHub Pages (Jekyll)
+* Markdown content
+* Static PDF & HTML artefacts
+
+---
+
+### Contact
+
+Have thoughts or feedback? **contact@johnrepsys.com**
+
+---
+
+_“Progress is not a straight line, but a dynamic boundary — inching outward where truth endures, folding inward where illusion is exposed.”_
+
 
 For feedback, questions, or discussion, feel free to reach out at **contact@johnrepsys.com**.
 
