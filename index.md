@@ -6,13 +6,21 @@ Welcome.
 
 I'm exploring the intersection of associative reasoning, symbolic constraint, and real-world validation in AI.
 
-In 2025, I independently published a whitepaper proposing the **Courtroom Model** — a hybrid architecture where LLMs serve as intuition engines, structured systems like FAISS/Parquet act as precedent, and judgment is applied through constraint, observation, and dialogue.
+### The Courtroom Model
 
-The goal: reasoning systems that don't just generate ideas, but argue them — testing novelty against structured memory and energy-aware reality.
+In 2025 I published **“The Courtroom Challenge — A Conjecture on the Unavoidable Cost of LLM Verification”**.  
+The paper introduces a hybrid architecture where LLMs act as intuition engines, structured stores (FAISS / Parquet) provide precedent, and a constraint-observation dialogue applies judgment.  
+The aim: reasoning systems that don’t just generate ideas, but **argue** them against structured memory and observable reality.
 
-➡️ [Read the whitepaper](/whitepaper/)
+---
 
-Or visit the [View the GitHub repository](https://github.com/johnrepsys/johnrepsys.github.io) for versioned access.
+### Get the paper, code, and data
+
+| Resource | Link |
+|----------|------|
+| **Paper (PDF)** | [`Courtroom_Challenge.pdf`](https://raw.githubusercontent.com/johnrepsys/courtroom-model/master/paper/Courtroom_Challenge.pdf) |
+| **Code & dataset** | [GitHub repository](https://github.com/johnrepsys/courtroom-model) – reproducibility notebook, benchmark CSV, ground-truth answers |
+| **Latest executed snapshot** | [HTML view](https://raw.githubusercontent.com/johnrepsys/courtroom-model/master/results/courtroom-20250620.html) · [PDF](https://raw.githubusercontent.com/johnrepsys/courtroom-model/master/results/courtroom-20250620.pdf) |
 
 ---
 
@@ -21,3 +29,4 @@ _“Progress is not a straight line, but a dynamic boundary — inching outward 
 <style>
   footer { display: none; }
 </style>
+
