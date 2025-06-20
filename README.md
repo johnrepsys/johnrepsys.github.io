@@ -26,17 +26,9 @@ The goal: systems that don’t just generate ideas, but **argue** them against s
 
 ---
 
-### Technology Stack for this site
-
-* GitHub Pages (Jekyll)
-* Markdown content
-* Static PDF & HTML artefacts
-
----
-
 ### Contact
 
-Have thoughts or feedback? **contact@johnrepsys.com**
+Have thoughts or feedback? **john.repsys@gmail.com**
 
 ---
 
