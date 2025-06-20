@@ -34,9 +34,4 @@ Have thoughts or feedback? **john.repsys@gmail.com**
 
 _“Progress is not a straight line, but a dynamic boundary — inching outward where truth endures, folding inward where illusion is exposed.”_
 
-
-For feedback, questions, or discussion, feel free to reach out at **contact@johnrepsys.com**.
-
 ---
-
-_This project reflects an evolving exploration at the intersection of associative reasoning, structured memory, and human judgment._
