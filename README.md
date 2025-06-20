@@ -8,7 +8,7 @@ This repo backs **[johnrepsys.com](https://johnrepsys.com)**.
 
 | Resource | Link | Notes |
 |----------|------|-------|
-| **Paper (PDF)** | [`Courtroom_Challenge.pdf`](https://raw.githubusercontent.com/johnrepsys/courtroom-model/master/paper/Courtroom_Challenge.pdf) | *The Courtroom Challenge — Conjecture on the Unavoidable Cost of LLM Verification* |
+| **Paper (PDF)** | [`Courtroom_Challenge.pdf`](https://raw.githubusercontent.com/johnrepsys/courtroom-model/master/paper/main.pdf) | *The Courtroom Challenge — Conjecture on the Unavoidable Cost of LLM Verification* |
 | **Code & Data** | **[Courtroom-Model GitHub Repo](https://github.com/johnrepsys/courtroom-model)** | Reproducibility notebook, benchmark CSV, ground-truth answers |
 | **Latest executed snapshot** | [HTML](https://raw.githubusercontent.com/johnrepsys/courtroom-model/master/results/courtroom-20250620.html) · [PDF](https://raw.githubusercontent.com/johnrepsys/courtroom-model/master/results/courtroom-20250620.pdf) | View-only output of the notebook |
 
